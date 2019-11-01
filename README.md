@@ -1,6 +1,11 @@
 # sosimple
 A very simple app
 
+#How to run this app
+1. NPM INSTALL 
+2. REACT-NATIVE START
+3. OPEN A NEW TERMINAL, RUN REACT-NATIVE RUN-ANDROID
+
 #Login 
 Use edi@gmail.com for email 
 Use 12345 for password 
