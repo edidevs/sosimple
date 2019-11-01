@@ -10,7 +10,7 @@ A very simple app
 Use edi@gmail.com for email 
 Use 12345 for password 
 
-#Feature 
+#Features
 1. Splash Screen
 2. User can add a new task
 3. User can delete a task
